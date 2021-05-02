@@ -16,4 +16,8 @@ Put simply: random forest builds multiple decision trees and merges them togethe
 One big advantage of random forest is that it can be used for both classification and regression problems, which form the majority of current machine learning systems. 
 Let's look at random forest in classification, since classification is sometimes considered the building block of machine learning
 
+## Demo
+![image](https://user-images.githubusercontent.com/60813213/116802661-286eda00-ab32-11eb-94c9-0485eed80cb8.png)
+
+
 
