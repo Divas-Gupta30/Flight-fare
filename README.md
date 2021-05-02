@@ -4,7 +4,7 @@ Flask web app that predicts the Flight-fare on basis of source,destination,Airli
 ## How to run the project?
 
 1. Clone this repository to your local machine.
-2
+2  To install the required packages and libraries, run this command in the project directory after cloning the repository
 4. Open your terminal/command prompt from your project directory and run the file `app.py` by executing the command `python app.py`.
 5. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
 6. Hurray! That's it.
@@ -15,3 +15,5 @@ The general idea of the bagging method is that a combination of learning models 
 Put simply: random forest builds multiple decision trees and merges them together to get a more accurate and stable prediction.
 One big advantage of random forest is that it can be used for both classification and regression problems, which form the majority of current machine learning systems. 
 Let's look at random forest in classification, since classification is sometimes considered the building block of machine learning
+
+
